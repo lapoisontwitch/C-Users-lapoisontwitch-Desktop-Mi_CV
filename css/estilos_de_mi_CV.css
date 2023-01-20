@@ -1,0 +1,62 @@
+*{
+    margin: 1px;
+    padding: 3px;
+}
+
+div#general {  
+    margin: auto;
+    margin-top: 50px;
+   width: 960px;
+   height: 800px;
+   background: rgb(86, 138, 158);
+   text-align: center;
+}
+
+header#titulo {
+    width: auto;
+    border: 2px solid black;
+    padding: 15px;
+    background: rgb(125, 200, 243);
+
+}
+div#informacion1 {
+    border: 1px solid black;
+    width: 60%;
+     padding: 45%px;
+     background: rgb(230, 175, 168);
+}
+div#informacion2 {
+    border: 1px solid black;
+    width: 60%;
+    padding: 50%px;
+    background: rgb(230, 175, 168);
+   }
+div#aside {
+    float: right;
+    width: 35%;
+    background: rgb(211, 209, 209);
+    list-style: none;
+    margin: 6px;
+    padding: 5px;
+    border: 1px solid black;
+}
+hgroup {
+    border: 1px solid black;
+    background: rgb(202, 196, 196);
+}
+footer {
+    margin: 5px;
+    padding: 5px;
+    color: white;
+    background: black;
+}
+h3 {
+    background: rgb(202, 196, 196);
+    border: 1px solid black;
+}
+button {
+    background: rgb(202, 196, 196);
+    border: 1px solid black;
+    margin: 60px;
+    padding: 30px;
+}
